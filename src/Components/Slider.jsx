@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import car1 from '../images/Carousel-001.jpg'
-import car2 from '../images/Carousel-002.jpg'
-import car3 from '../images/Carousel-003.png'
+
 function Slider() {
   const images = [
     "https://i.pinimg.com/564x/b2/ad/3a/b2ad3a7b34902e87b12ea3a45ac29850.jpg",
